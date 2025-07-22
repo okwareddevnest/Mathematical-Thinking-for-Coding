@@ -2,7 +2,6 @@
 
 > *Essential mathematical foundations for aspiring software engineers and computer scientists*
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Language](https://img.shields.io/badge/language-Python-green.svg)
 ![Level](https://img.shields.io/badge/level-Beginner--Intermediate-orange.svg)
 ![Prerequisites](https://img.shields.io/badge/prerequisites-Basic%20Python-lightblue.svg)
@@ -220,9 +219,11 @@ This course is designed as a **15-20 hour intensive** that can be completed over
 
 ### 🎯 **Learning Outcomes Progression**
 
-**Beginner Level (Hours 1-8):** Develop mathematical intuition and computational thinking
-**Intermediate Level (Hours 9-16):** Apply mathematical concepts to algorithm design and analysis  
-**Advanced Application (Hours 17-24):** Integrate multiple mathematical concepts in complex projects
+- **Beginner Level (Hours 1-8):** Develop mathematical intuition and computational thinking
+
+- **Intermediate Level (Hours 9-16):** Apply mathematical concepts to algorithm design and analysis  
+
+- **Advanced Application (Hours 17-24):** Integrate multiple mathematical concepts in complex projects
 
 ---
 
@@ -269,46 +270,6 @@ This course is designed as a **15-20 hour intensive** that can be completed over
 - [NetworkX Python Library](https://networkx.org/)
 - [Brilliant.org Graph Theory](https://brilliant.org/wiki/graph-theory/)
 
----
-
-## 🤝 Contributing
-
-We welcome contributions to improve this course! Here's how you can help:
-
-### 🐛 **Report Issues**
-- Found a bug in the code examples?
-- Notice unclear explanations?
-- Suggest improvements to projects?
-
-### 💡 **Suggest Enhancements**
-- Additional practice problems
-- New project ideas
-- Enhanced visualizations
-- Code optimizations
-
-### 📝 **Content Contributions**
-- Extended examples
-- Alternative explanations
-- Additional resources
-- Translation to other languages
-
-**How to contribute:**
-1. Fork the repository
-2. Create a feature branch
-3. Make your improvements
-4. Submit a pull request
-
----
-
-## 📜 License
-
-This course content is released under the **MIT License**. Feel free to use, modify, and distribute for educational purposes.
-
----
-
-## 🎉 Acknowledgments
-
-This course was designed to make mathematical concepts accessible and practical for programmers of all levels. Special thanks to the open-source community for tools and libraries that make mathematical programming accessible.
 
 ---
 
