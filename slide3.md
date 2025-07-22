@@ -88,7 +88,7 @@ print("Sum in binary:", sum_binary)  # Output: 0b1111
 
 ---
 
-## 🔄 Base Conversion Flow – Visual with Mermaid
+## 🔄 Base Conversion Flow
 
 ```mermaid
 flowchart TD

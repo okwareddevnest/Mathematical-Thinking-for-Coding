@@ -70,7 +70,7 @@ Variance: 2.2
 
 ---
 
-## 📊 Data Distribution Flow (Mermaid)
+## 📊 Data Distribution Flow
 
 ```mermaid
 flowchart TD

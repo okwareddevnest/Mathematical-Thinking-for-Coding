@@ -66,7 +66,7 @@ Truth tables help us **visualize the outcome** of logical operations for every p
 
 ---
 
-## 🔄 Logic Flow with Mermaid
+## 🔄 Logic Flow
 
 ### ✅ Decision Flowchart
 

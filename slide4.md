@@ -99,7 +99,7 @@ dfs(graph, "A")  # Output: A B D C E
 
 ---
 
-## 🔄 Mermaid Diagram: Graph Structure
+## 🔄 Graph Structure
 
 ```mermaid
 graph TD
